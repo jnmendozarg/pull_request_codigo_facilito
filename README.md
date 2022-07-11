@@ -10,4 +10,8 @@
 * Aldo Said Salas Rodríguez
 * Israel Jimenez Vergara
 * Santiago Zambrana
+<<<<<<< HEAD
 * RAMA_1
+=======
+* RAMA_2
+>>>>>>> rama-2
